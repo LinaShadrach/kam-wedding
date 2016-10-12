@@ -1,6 +1,23 @@
-.column {
-  width: 33%;
-  float: left;;
+.column1 {
+  background-color: green;
+  height: 500px;
+  width: 32%;
+  margin: 5px;
+  float: right;
+}
+.column2 {
+  background-color: white;
+  height: 500px;
+  width: 32%;
+  margin: 5px;
+  float: right;
+}
+.column3 {
+  background-color: blue;
+  height: 500px;
+  width: 32%;
+  margin: 5px;
+  float: right;
 }
 h1 {
   color: purple;
