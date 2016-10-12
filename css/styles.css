@@ -1,0 +1,20 @@
+.column {
+  width: 33%;
+  float: left;;
+}
+h1 {
+  color: purple;
+  text-align: center;
+  font-weight: bolder;
+}
+h2 {
+  font-size: 15px;
+  font-style: bold;
+  text-align: center;
+  font-family: fantasy;
+}
+body {
+  background-color: gold;
+  font-family: sans-serif;
+  text-align: center;
+}
